@@ -1,4 +1,4 @@
-**Java Web Calculator Deployment Guide with Maven & Nexus**
+# Java Web Calculator Deployment Guide with Maven & Nexus
 
 This repository demonstrates how to build, deploy, and manage Java web application artifacts using Maven, Nexus Repository Manager, and Apache Tomcat. The project used here is a Java Web Calculator, and multiple versions of the application are deployed step-by-step.
 
